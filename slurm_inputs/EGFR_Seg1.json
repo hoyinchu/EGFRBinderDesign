@@ -1,0 +1,9 @@
+{
+    "design_path": "Seg1_FreeDiffusion",
+    "binder_name": "EGFR_Seg1",
+    "starting_pdb": "6aru_chainA_4-161.pdb",
+    "chains": "A",
+    "target_hotspot_residues": null,
+    "lengths": [50, 65],
+    "number_of_final_designs": 100
+}
